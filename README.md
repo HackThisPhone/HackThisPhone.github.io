@@ -11,7 +11,9 @@ What these companies are doing is akin to wiretapping the entire world, and if y
 
 ## 0x0A
 
-What better way to launch a new line of phones than with the 0x0A, the flagship smartphone. (For those less code-inclined, 0x0A is the ASCII code for newline). Like a newline in a terminal, this phone represents the beginning of something great.
+What better way to launch a new line of phones than with the 0x0A, the flagship smartphone. (For those less code-inclined, 0x0A is the ASCII code for newline). Like a newline in a terminal, this phone represents the beginning of something great. [Check it out!](https://github.com/HackThisPhone/0x0A)
+
+![](https://github.com/HackThisPhone/0x0A/blob/main/imgs/better.png)
 
 Base Features:
 
@@ -21,7 +23,7 @@ Base Features:
 * 8,000mAh LiPo battery 
 * HD 720x1280 LCD with 16.7M color depth
 * 10MP front & rear cameras
-* 5G/4G/LTE/WCDMA
+* 4G/LTE/WCDMA
 * WiFi 802.11a/b/g/n/ac
 * Bluetooth 4.2/3.0/2.1
 * GPS/BeiDou/GLONASS
@@ -38,7 +40,7 @@ Supported Carriers:
   * AT&T
   * T-Mobile
   * Sprint
- 
+
 Estimated BOM Cost: <$300
 
 I cordially invite you all to join me on this journey of developing this phone and giving big tech a big middle finger.
